@@ -493,6 +493,23 @@
   ],
 )
 
+#v(design-entries-vertical-space-between-entries)
+// YES DATE, YES DEGREE
+#three-col-entry(
+  left-column-width: 1cm,
+  left-content: [],
+  middle-content: [
+    #strong[Kunming University of Science and Technology], Environmental Science
+
+    
+  ],
+  right-content: [
+    Kunming, China \(Faculty of Environmental Science and Engineering\)
+
+2019 – 2023
+  ],
+)
+
 
 
 == Publications

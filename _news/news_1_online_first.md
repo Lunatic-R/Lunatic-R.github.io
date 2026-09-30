@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on the association classification, functional differentiation and environmental drivers of subalpine forests around Bitahai Lake, Shangri-La is now online first in *Guihaia* (《广西植物》网络首发).
+Our paper on the association classification, functional differentiation and environmental drivers of subalpine forests around Bitahai Lake, Shangri-La is online: journal website since 1 Jun 2026, and *Guihaia* CNKI 网络首发 on 23 Sep 2026.
