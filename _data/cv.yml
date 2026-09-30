@@ -1,0 +1,46 @@
+cv:
+  name: Fashu Xu (徐发舒)
+  label: Master's student in Ecology
+  email: jinggu_xu@163.com
+  location: Kunming / Mengla, Yunnan, China
+  image: ""
+  summary: >-
+    Master's student (2023–) in a joint training program between Yunnan University
+    and the Community Assembly and Species Coexistence Group, Xishuangbanna Tropical
+    Botanical Garden, CAS. Interested in subalpine forest plant and animal communities
+    and their environmental drivers, with fieldwork centered on the Bitahai area of
+    Shangri-La, southwestern China.
+
+  social_networks:
+    - network: GitHub
+      username: Lunatic-R
+
+  sections:
+    Education:
+      - institution: Yunnan University · Xishuangbanna Tropical Botanical Garden, CAS
+        location: Kunming & Mengla, China (joint training program)
+        area: Ecology
+        studyType: M.Sc.
+        start_date: 2023
+        end_date: present
+        highlights:
+          - "Thesis (in progress): 多营养级视角下人类干扰与生境异质性对森林有蹄类共存策略的驱动机制 —— 以香格里拉普达措国家公园碧塔海片区为例 (Multi-trophic drivers of forest ungulate coexistence strategies under human disturbance, Bitahai, Pudacuo)"
+          - "Advisors: Prof. Zhiming Zhang & Prof. Luxiang Lin (Community Assembly and Species Coexistence Group)"
+
+    Publications:
+      - text: |
+          徐发舒, 苏维翰, 孙文娟, 等. 香格里拉碧塔海亚高山森林的群丛分类、功能分异及其环境驱动因子. *广西植物* (Guihaia), 2026: 1–26. (Online first, 网络首发) [CNKI](https://link.cnki.net/urlid/45.1134.Q.20260923.1447.002)
+
+    Manuscripts in Preparation:
+      - text: |
+          云南香格里拉国家公园候选区碧塔海周边区域红外相机鸟兽监测数据集 (Camera-trap bird and mammal monitoring dataset, Bitahai). To be submitted to *生物多样性* (Biodiversity Science), by Nov 2026.
+      - text: |
+          Human-induced shifts in diel activity of mammal guilds: separate temporal fingerprints of people and livestock in a high-elevation national park, southwestern China. Target journals: *Integrative Zoology* / *Conservation Biology*, 2027.
+
+    Software:
+      - text: |
+          **红外相机影像标注与数据整理软件** — Camera-trap image annotation and data management software. First developer; software copyright application formally submitted (2026), copyright holder: Xishuangbanna Tropical Botanical Garden, CAS.
+
+    Fieldwork & Skills:
+      - text: |
+          Camera-trap monitoring of birds and mammals · vegetation / community surveys · camera-trap data annotation and management pipelines (Python)
