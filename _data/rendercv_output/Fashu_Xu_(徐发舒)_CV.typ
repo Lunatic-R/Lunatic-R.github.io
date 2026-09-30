@@ -506,7 +506,26 @@
   right-content: [
     Kunming, China \(Faculty of Environmental Science and Engineering\)
 
-2019 – 2023
+2018 – 2022
+  ],
+)
+
+
+
+== Experience
+
+
+#two-col-entry(
+  left-content: [
+    #strong[Kunming Metallurgical Research Institute], Chemical Analyst \(化学检验员\)
+    #v(-design-text-leading)
+
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Full-time analyst for one year; routine sample analysis using GC-MS and other instrumental methods.])], column-gutter: 0cm)
+  ],
+  right-content: [
+    Kunming, China
+
+2022 – 2023
   ],
 )
 
