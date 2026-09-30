@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lunatic-r.github.io/sitemap.xml
